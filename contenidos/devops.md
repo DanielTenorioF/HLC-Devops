@@ -10,4 +10,4 @@ Fases de Devops:
 - Operaciones: Se encarga del soporte de la aplicación.
 - Monitorización: Se encarga de controlar el estado de salud de la aplicación para detectar posibles errores.
 
-![image](/img/devops.jepg)
+![image](/img/devops.jpeg)
