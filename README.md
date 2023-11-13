@@ -11,3 +11,4 @@
 - [Ud.- Devops](https://educacionadistancia.juntadeandalucia.es/centros/sevilla/pluginfile.php/1047295/mod_label/intro/Introducci%C3%B3n%20a%20Devops.pdf)
 
 ## Licencia
+![image](/img/licencia.PNG)
